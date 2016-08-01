@@ -1,16 +1,8 @@
-# Airbnb JavaScript Style Guide() {
+# Napster API Style Guide() {
 
-*A mostly reasonable approach to JavaScript*
+Versions 2.1 and above of the Napster API use the practices described in this style guide. Versions before this use the [ES5 Style Guide.](es5/)
 
-[![Downloads](https://img.shields.io/npm/dm/eslint-config-airbnb.svg)](https://www.npmjs.com/package/eslint-config-airbnb)
-[![Downloads](https://img.shields.io/npm/dm/eslint-config-airbnb-base.svg)](https://www.npmjs.com/package/eslint-config-airbnb-base)
-[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/airbnb/javascript?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-
-Other Style Guides
- - [ES5](es5/)
- - [React](react/)
- - [CSS & Sass](https://github.com/airbnb/css)
- - [Ruby](https://github.com/airbnb/ruby)
+*Derived from Airbnb's JavaScript Style Guide*
 
 ## Table of Contents
 
